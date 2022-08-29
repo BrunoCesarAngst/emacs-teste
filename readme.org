@@ -4,24 +4,26 @@
 
 * MYSYS - Tranformando coisas para fazer
 
+
 1. teste
 2. teste
 
 - teste
   - teste
-
-. teste
-. teste
+    -
+      -
+         -
+           - teste
 
 #+begin_src sh :results silent
 pwd
 #+end_src
 
-#+begin_src plantuml :file ./sequence.png
+#+begin_src plantuml :file sequence.png :exports results
 @startuml sequence-diagram.png
   bruno -> teste :sera
 @enduml
 #+end_src
 
 #+RESULTS:
-[[file:./sequence.png]]
+[[file:sequence.png]]
