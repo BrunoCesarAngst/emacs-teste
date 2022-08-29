@@ -8,7 +8,7 @@
 pwd
 #+end_src
 
-#+begin_src plantuml :file sequence.png :exports results :results silent
+#+begin_src plantuml :file sequence.png :exports results
 @startuml sequence-diagram.png
   bruno -> teste :sera
 @enduml
