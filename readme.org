@@ -2,13 +2,14 @@
 #+startup: hidden
 #+startup: indent
 
-* Meu PDS
-** MYSYS - Tranformando coisas para fazer
-#+begin_src plantuml :file sequence.png :exports results
+* MYSYS - Tranformando coisas para fazer
+
+#+begin_src sh :results silent
+pwd
+#+end_src
+
+#+begin_src plantuml :file sequence.png :exports results :results silent
 @startuml sequence-diagram.png
   bruno -> teste :sera
 @enduml
 #+end_src
-
-#+RESULTS:
-[[file:sequence.png]]
