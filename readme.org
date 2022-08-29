@@ -1,5 +1,8 @@
 * Meu PDS
 ** MYSYS - Tranformando coisas para fazer
-#+begin_src plantuml
-bruno -> teste
+#+begin_src plantuml :file ./hello-uml.png
+bruno -> teste :sera
 #+end_src
+
+#+RESULTS:
+[[file:./hello-uml.png]]
