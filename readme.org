@@ -15,9 +15,10 @@
            - teste
 
 ** Tarefas
-[] - 1
-[ ] - 2
-- [ ] - 3
+* TODO organização
+- [-] teste
+  - [ ] será
+  - [ ] vamos ver
 - [x] - 4
 
 #+begin_src sh :results silent
