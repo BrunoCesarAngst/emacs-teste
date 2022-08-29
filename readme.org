@@ -13,3 +13,6 @@ pwd
   bruno -> teste :sera
 @enduml
 #+end_src
+
+#+RESULTS:
+[[file:sequence.png]]
