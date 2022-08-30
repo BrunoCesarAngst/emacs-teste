@@ -5,11 +5,11 @@
 #+date: [2022-08-29 Mon 21:12]
 
 
-#+begin_src plantuml :file sequence.png :exports results
-@startuml sequence-diagram.png
+#+begin_src plantuml :file marga.png :exports results
+@startuml marga.png
   bruno -> margarete :sera
 @enduml
 #+end_src
 
 #+RESULTS:
-[[file:sequence.png]]
+[[file:maga.png]]

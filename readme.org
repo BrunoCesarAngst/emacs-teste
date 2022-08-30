@@ -28,6 +28,5 @@ pwd
 #+RESULTS:
 [[file:sequence.png]]
 
-[[id:608BF907-8679-4068-864D-B5993A4FF527][teste]] novo
 
-[[id:A62EAEC8-B384-49D0-BA44-91969EFDC2D8][coisas]]
+[[id:117F4481-1206-4E9E-A39E-3A2E3ED19DA9][testesorg]]
