@@ -12,4 +12,4 @@
 #+end_src
 
 #+RESULTS:
-[[file:maga.png]]
+[[file:marga.png]]
