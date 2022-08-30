@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       AD2AC0BD-D752-48F8-BE49-9A15BB68297D
+:END:
+#+title: testeGit
+#+date: [2022-08-29 Mon 22:00]
+
+* TODO organização
+- [-] teste
+  - [ ] será
+  - [ ] vamos ver
+- [x] - 4
