@@ -1,11 +1,14 @@
-#+title: MEU PDS
-#+startup: hidden
-#+startup: indent
+:PROPERTIES:
+:ID:       FA695390-E95A-4441-A825-8E70FFDDF21C
+:END:
+#+title: README
+#+date: [2022-08-30 Tue 07:56]
+
 
 * MYSYS - Tranformando coisas para fazer
 - teste
   - teste
-    - 1
+    - 1y
       - teste
 
 ** Tarefas
@@ -27,9 +30,3 @@ pwd
 
 #+RESULTS:
 [[file:sequence.png]]
-
-
-[[id:117F4481-1206-4E9E-A39E-3A2E3ED19DA9][testesorg]](https://github.com/BrunoCesarAngst/emacs-teste/blob/main/20220829211218-testesorg.org)
-
-
-[[id:AD2AC0BD-D752-48F8-BE49-9A15BB68297D][testeGit]](https://github.com/BrunoCesarAngst/emacs-teste/blob/main/testegit.org)
