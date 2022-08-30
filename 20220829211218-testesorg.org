@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       117F4481-1206-4E9E-A39E-3A2E3ED19DA9
+:END:
+#+title: testesorg
+#+date: [2022-08-29 Mon 21:12]
+
+
+#+begin_src plantuml :file sequence.png :exports results
+@startuml sequence-diagram.png
+  bruno -> margarete :sera
+@enduml
+#+end_src
+
+#+RESULTS:
+[[file:sequence.png]]
